@@ -2,13 +2,13 @@
 
 A project I made with 3 team members. It is a Temperature distance measuring system. Where the distance and temperature are measured.
 
-We have used Arduino board, and have also used LM35 temperature sensor along with ultrasonic sound sensor HCSR04. The Arduino is connected to the virtual terminal for dsiplaying the data. It is also connected to the LabView GUI via a COMPORT.
+We have used Arduino board, and have also used LM35 temperature sensor along with ultrasonic sound sensor HCSR04. The Arduino is connected to the virtual terminal for displaying the data. It is also connected to the LabView GUI via a COMPORT.
 
 The circuit is made using Proteus and the block diagram of the circuit is made in the LabView. The GUI shows the circuit in action.
 
-This circuit measures the distance and the temperature with the LM35 and HCSR04 respectively. We can change the values to see how they affect each-ither and one another.
+This circuit measures the distance and the temperature with the LM35 and HCSR04 respectively. We can change the values to see how they affect each-other and one another.
 
-The simulation of this project can be found here URL: 
+The simulation of this project can be found here URL: https://youtu.be/SUUpWu6vOB4
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/75902819/204622978-10f5bad9-6ac9-41ca-b4b3-832ef155ee63.png)
 
